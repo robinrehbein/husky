@@ -1,0 +1,12 @@
+{
+  "name": "husky",
+  "version": "1.0.0",
+  "description": "Demo Husky Git Hooks",
+  "main": "index.ts",
+  "repository": "https://github.com/robinrehbein/husky",
+  "author": "Robin Rehbein",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
